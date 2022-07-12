@@ -16,8 +16,8 @@
             "template_name": "Dummy Template - 2",          
         },
         {
-              "id": 10,
-              "template_name": "Dummy Template - 2",           
+            "id": 10,
+            "template_name": "Dummy Template - 2",           
         }
     ]
 }
