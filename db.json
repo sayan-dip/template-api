@@ -4,20 +4,20 @@
         {
             "id": 5,
             "template_name": "Dummy Template - 1",
-            "company_id": 282,            
+            "company_id": 282            
         },
         {
             "id": 6,
             "template_name": "Dummy Template - 1",           
-            "company_id": 282,          
+            "company_id": 282          
         },
         {
             "id": 7,
-            "template_name": "Dummy Template - 2",          
+            "template_name": "Dummy Template - 2"          
         },
         {
             "id": 10,
-            "template_name": "Dummy Template - 2",           
+            "template_name": "Dummy Template - 2"           
         }
     ]
 }
