@@ -4,77 +4,20 @@
         {
             "id": 5,
             "template_name": "Dummy Template - 1",
-            "file_url": "document/1R8eEQGqgrw",
-            "external_file_id": "97960a81-f66b-4552-bcab-c010c1367dc8",
-            "company_id": 282,
-            "created_by": 11449,
-            "creator": {
-                "id": 11449,
-                "first_name": "Noopur B",
-                "last_name": "Gundawar",
-                "uid": "18eEQGQ2qgr"
-            },
-            "company": {
-                "id": 282,
-                "company_name": "Anirudh Singla ",
-                "uid": 282
-            }
+            "company_id": 282,            
         },
         {
             "id": 6,
-            "template_name": "Dummy Template - 1",
-            "file_url": "document/1xBGqNdEZN8",
-            "external_file_id": "9c24055b-78ef-439f-8912-7a8bbf6cadf6",
-            "company_id": 282,
-            "created_by": 11449,
-           
-            "creator": {
-                "id": 11449,
-                "first_name": "Noopur B",
-                "last_name": "Gundawar",
-                "uid": "18eEQGQ2qgr"
-            },
-            "company": {
-                "id": 282,
-                "company_name": "Anirudh Singla ",
-                "uid": 282
-            }
+            "template_name": "Dummy Template - 1",           
+            "company_id": 282,          
         },
         {
             "id": 7,
-            "template_name": "Dummy Template - 2",
-            "file_url": "document/1J5x4LX41gA",
-            "external_file_id": "487bddf7-ef2a-489e-ac41-79f2c8e708a1",
-            "created_by": 11449,
-            "creator": {
-                "id": 11449,
-                "first_name": "Noopur B",
-                "last_name": "Gundawar",
-                "uid": "18eEQGQ2qgr"
-            },
-            "company": {
-                "id": 282,
-                "company_name": "Anirudh Singla ",
-                "uid": 282
-            }
+            "template_name": "Dummy Template - 2",          
         },
         {
               "id": 10,
-              "template_name": "Dummy Template - 2",
-              "file_url": "document/1J5x4LX41gA",
-              "external_file_id": "487bddf7-ef2a-489e-ac41-79f2c8e708a1",
-              "created_by": 11449,
-              "creator": {
-                  "id": 11449,
-                  "first_name": "Noopur B",
-                  "last_name": "Gundawar",
-                  "uid": "18eEQGQ2qgr"
-              },
-              "company": {
-                  "id": 282,
-                  "company_name": "Anirudh Singla ",
-                  "uid": 282
-              }
-          }
+              "template_name": "Dummy Template - 2",           
+        }
     ]
 }
